@@ -185,7 +185,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Nanomaterials,<br>Nanodevices, Fabrication and Characterization (ICNNFC'17)</h1>
-          <p class="subhead">April 5 - 6, 2017 | Prague, Czech Republic</p>
+          <p class="subhead">April 5 - 6, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -211,7 +211,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Nanomaterials,<br>Nanodevices, Fabrication and Characterization (ICNNFC'17)</h1>
-          <p class="subhead">April 5 - 6, 2017 | Prague, Czech Republic</p>
+          <p class="subhead">April 5 - 6, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -294,7 +294,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Oct. 05, 2016
   </div>
 </div>
 
@@ -305,10 +305,11 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 </div>
 
+
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Dec. 10, 2016
   </div>
 </div>
 
@@ -322,7 +323,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Feb. 01, 2017
   </div>
 </div>
 
@@ -332,6 +333,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
 </div>
+
   </div>
   </div>
 </div>
