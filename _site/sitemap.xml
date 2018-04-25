@@ -1,231 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
-<!-- www.check-domains.com sitemap generator -->
 
-<url>
-   <loc>http://2019.icnnfc.com/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>1.0000</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/past-events/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/papers/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/program/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/dates/</loc>
-   <lastmod>2018-02-12T16:48:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/registration/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/committee/</loc>
-   <lastmod>2018-02-12T16:48:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/keynote/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/venue/</loc>
-   <lastmod>2018-02-26T20:07:05+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/accommodation/</loc>
-   <lastmod>2018-02-26T20:06:56+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/sponsor/</loc>
-   <lastmod>2018-02-12T16:48:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/symposium/</loc>
-   <lastmod>2018-02-12T16:48:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/past-events/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/terms/</loc>
-   <lastmod>2018-02-12T16:48:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/sitemap/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/ICNNFC19_Paper_Template.docx</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/ICNNFC19_Extended_Abstract.docx</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/ICNNFC19_CopyrightForm.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/papers/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/program/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/dates/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/registration/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/committee/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/keynote/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/venue/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/accommodation/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/sponsor/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/symposium/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/terms/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/sitemap/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/banktobank/</loc>
-   <lastmod>2018-02-12T16:48:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/moneyorder/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/paypal/</loc>
-   <lastmod>2018-02-12T16:48:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/banktobank/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/moneyorder/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.icnnfc.com/paypal/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T16:26:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.icnnfc.com/index.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+  <url>
+
+      <loc>http://www.icnnfc.com/papers.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/program.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/dates.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/registration.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/committee.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/keynote.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/sponsor.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/venue.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/accommodation.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.icnnfc.com/symposium.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
 </urlset>
