@@ -26,6 +26,7 @@ $(function() {
       student: "required",
       Date_of_Payment_Transaction: "required",
       file: "required",
+	  Do_you_agree_to_include_your_name_and_email_address_in_the_list_of_participants_to_distribute_it_among_them: "required",
       Do_you_need_an_official_Paper_Acceptance_Letter: "required",
       Do_you_need_an_official_Invitation_Letter: "required",
       Do_you_need_an_official_Certificate_of_Attendance: "required",
